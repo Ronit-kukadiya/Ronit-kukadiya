@@ -1,15 +1,50 @@
-- 👋 Hi, I’m @Ronit-kukadiya
-- 👀 I’m interested in anime and and gaming
-- 🌱 I’m currently learning web app development
-- 💞️ I’m looking to collaborate on nothing currently
-- 📫 How to reach me - on instagram
-- ⚡ Fun fact: There is a black hole called Phoenix A, and it is estimated to be 100 billion times the mass of our Sun, comparable to the mass of an entire galaxy.
-                Its event horizon is 590 billion kilometers wide,or more than 100 times the distance from the Sun to Pluto, or about 1/16 of a lightyear wide.
-                To get a visualization of how big that is on a human scale, lets shrink our solar system by 1 trillion times.
-                The Sun would be 1 millimeter wide, and Pluto would be a little more than 5 meters away,
-                and that black hole would be 590 meters wide. For reference, Alpha Centauri would be about 40 kilometers away at that scale.
+# Hi there 👋
 
-<!---
-Ronit-kukadiya/Ronit-kukadiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm Ronit kukadiya, a passionate developer and learner dedicated to exploring, creating, and sharing knowledge.
+
+---
+
+## 🧑‍💻 About Me
+- 🎨 **Creative** with interests in gaming, drawing, and writing
+- 💡 Always eager to solve problems and design innovative solutions
+
+---
+
+## 🔧 Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🎮 Hobbies & Interests
+- 🎮 Gaming
+- ✏️ Drawing & Doodling
+- 🎬 Watching Movies and Anime
+- 🎧 Listening to Music
+
+---
+
+### 🌟 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronit-kukadiya/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kukadiyaronit/)
+
+---
+
+Feel free to explore my repositories and drop a ⭐ if you find something interesting!
