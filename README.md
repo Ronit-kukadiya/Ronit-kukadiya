@@ -31,6 +31,8 @@ Welcome to my GitHub profile! I'm Ronit kukadiya, a passionate developer and lea
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-kukadiya&layout=compact&theme=radical&hide_border=true)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Ronit-kukadiya&style=for-the-badge&color=blue)
+
 ---
 
 ## 🎮 Hobbies & Interests
