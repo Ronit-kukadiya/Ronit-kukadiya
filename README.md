@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm Ronit Kukadiya, a passionate developer and lea
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Ronit-kukadiya&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-kukadiya&layout=compact&theme=radical&hide_border=true&cache_seconds=3600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-kukadiya&layout=compact&theme=radical&hide_border=true&count_private=true)
 
 ---
 
