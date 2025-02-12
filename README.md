@@ -38,6 +38,8 @@ Welcome to my GitHub profile! I'm Ronit Kukadiya, a passionate developer and lea
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-kukadiya&layout=compact&theme=radical&hide_border=true)
 
+![GitHub Metrics](https://github-readme-metrics.vercel.app/api?username=Ronit-kukadiya&theme=radical)
+
 ![Languages Used](https://github-readme-stats.vercel.app/api?username=Ronit-kukadiya&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 ---
