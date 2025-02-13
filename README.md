@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm Ronit Kukadiya, a passionate developer and lea
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ronit-kukadiya&style=for-the-badge&color=blue)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ronit-kukadiya&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ronit-kukadiya&theme=radical&hide_border=true)
 
 ![Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-kukadiya&layout=compact&theme=radical&hide_border=true&langs_count=20)
 
