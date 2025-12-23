@@ -1,63 +1,70 @@
-<h1 align="center">Hi, I'm Ronit 👋</h1>
+<h1 align="center">Ronit Kukadiya</h1>
 
-<h3 align="center">
-Aspiring Software / Frontend Developer<br/>
-Building web interfaces with React & Tailwind<br/>
-Preparing for internships and entry-level roles
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Aspiring+Frontend+Developer;React+%7C+Tailwind+CSS;Building+and+Learning+Every+Day" />
+</p>
+
+<p align="center">
+  Turning ideas into interactive web experiences.<br/>
+  Currently preparing for internships and entry-level roles.
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 🧩 Tech Stack
 
 ### 🧠 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,cs,java&theme=dark" />
+</p>
 
 ### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
+</p>
 
 ### 🛠 Backend & Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+</p>
 
-### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+### 🎨 Tools & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=git,figma&theme=dark" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ronit-kukadiya&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Ronit-kukadiya&label=Profile%20Views&color=0ea5e9&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ronit-kukadiya&show_icons=true&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ronit-kukadiya&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=Ronit-kukadiya&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-kukadiya&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronit-kukadiya&theme=dark&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-kukadiya&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect With Me
+
 <p align="center">
+  <a href="https://www.linkedin.com/in/ronit-kukadiya/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://www.instagram.com/kukadiyaronit/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/ronit-kukadiya/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>⚡ Clean code. Consistent growth. Real projects.</sub>
 </p>
