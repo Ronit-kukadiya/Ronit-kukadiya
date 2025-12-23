@@ -1,7 +1,10 @@
-# Hi, I'm Ronit 👋  
-Aspiring Software / Frontend Developer  
-I enjoy building web interfaces, experimenting with React, and turning ideas into working projects.  
-Currently sharpening my skills and preparing for internships and entry-level roles.
+<h1 align="center">Hi, I'm Ronit 👋</h1>
+
+<h3 align="center">
+Aspiring Software / Frontend Developer<br/>
+Building web interfaces with React & Tailwind<br/>
+Preparing for internships and entry-level roles
+</h3>
 
 ---
 
@@ -30,16 +33,31 @@ Currently sharpening my skills and preparing for internships and entry-level rol
 ---
 
 ## 📊 GitHub Stats
-![](https://visitcount.itsvg.in/api?id=Ronit-kukadiya&icon=0&color=2)
 
-![](https://github-readme-stats.vercel.app/api?username=Ronit-kukadiya&theme=dark&hide_border=true&include_all_commits=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ronit-kukadiya&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-kukadiya&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ronit-kukadiya&show_icons=true&theme=dark&hide_border=true" />
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Ronit-kukadiya&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-kukadiya&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronit-kukadiya&theme=dark&hide_border=true" />
+</p>
 
 ---
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kukadiyaronit/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronit-kukadiya/)
+<p align="center">
+  <a href="https://www.instagram.com/kukadiyaronit/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ronit-kukadiya/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
