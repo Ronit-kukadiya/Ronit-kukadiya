@@ -42,12 +42,12 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ronit-kukadiya&show_icons=true&theme=transparent&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ronit-kukadiya&show_icons=true&theme=radical&hide_border=true" />
   <img width="48%" src="https://streak-stats.demolab.com?user=Ronit-kukadiya&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-kukadiya&layout=compact&theme=transparent&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-kukadiya&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
