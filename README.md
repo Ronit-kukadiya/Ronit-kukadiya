@@ -25,7 +25,7 @@
 
 ### 🛠 Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,node,express,sQLite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,nodejs,express,SQLite&theme=dark" />
 </p>
 
 ### 🎨 Tools & Design
