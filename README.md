@@ -15,22 +15,22 @@
 
 ### 🧠 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,cs,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,cs&theme=dark" />
 </p>
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" />
 </p>
 
 ### 🛠 Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,node,express,sQLite&theme=dark" />
 </p>
 
 ### 🎨 Tools & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=git,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,figma,canva&theme=dark" />
 </p>
 
 ---
