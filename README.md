@@ -28,6 +28,11 @@
   <img src="https://skillicons.dev/icons?i=mongodb,nodejs,express,sqlite&theme=dark" />
 </p>
 
+### 🎮 Game development
+<p>
+  <img src="https://skillicons.dev/icons?i=unity&theme=dark" />
+</p>
+
 ### 🎨 Tools & Design
 <p>
   <img src="https://skillicons.dev/icons?i=git,figma&theme=dark" />
